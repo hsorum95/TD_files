@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Developer Endpoint",
+    "owner": "Håkon Sørum - O3 Cyber",
+    "description": "Developer endpoint in a developer environment",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Håkon Nikolai Stange Sørum"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
